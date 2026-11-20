@@ -1,6 +1,6 @@
-# ill-communication
+<img width="1600" height="560" alt="ill communication. UX writing, not fighting." src="https://github.com/user-attachments/assets/3800e43d-19b0-4b89-84f2-a38f96b37159" /><br>
 
-**UX writing, not fighting.** A Claude skill that writes and reviews human-sounding copy, with proper UX writing craft built in.
+A Claude skill that writes and reviews human-sounding copy, with proper UX writing craft built in.
 
 Most "humanizer" skills are lists of banned words. This one goes further: it strips the AI tells, but it also knows how to write a button label, an error message, and an empty state. It understands when copy is regulated and shouldn't be touched, when a decline option has been guilt-framed into a dark pattern, and why "Learn more" fails screen reader users. And it writes in your voice, not a generic clean one, because you define the voice in a template it reads every time.
 
