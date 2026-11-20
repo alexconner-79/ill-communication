@@ -1,4 +1,4 @@
-<img width="1600" height="560" alt="ill communication. UX writing, not fighting." src="https://github.com/user-attachments/assets/3800e43d-19b0-4b89-84f2-a38f96b37159" /><br>
+<img width="1600" height="560" alt="01 ill communication, banner" src="https://github.com/user-attachments/assets/86c61dee-7356-48bc-8152-50bb467f69d3" /><br>
 
 A Claude skill that writes and reviews human-sounding copy, with proper UX writing craft built in.
 
